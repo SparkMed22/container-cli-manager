@@ -35,7 +35,7 @@ Una herramienta de línea de comandos (CLI) interactiva y moderna para gestionar
 
 1.  **Clona el repositorio** o descarga los archivos:
     ```bash
-    git clone <tu-repositorio>
+    git clone git@github.com:SparkMed22/container-cli-manager.git
     cd container-cli-manager
     ```
 
