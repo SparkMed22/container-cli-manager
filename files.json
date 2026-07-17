@@ -1,0 +1,11 @@
+{
+  "containers": [
+    {
+      "id": 1784300109664,
+      "nombre": "testeando",
+      "descripcion": "Testeando .env",
+      "puerto": 3000,
+      "creadoEn": "2026-07-17T14:55:09.664Z"
+    }
+  ]
+}
